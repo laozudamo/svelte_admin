@@ -1,4 +1,3 @@
-import "./app.postcss";
 import "normalize.css/normalize.css";
 import App from "./App.svelte";
 
